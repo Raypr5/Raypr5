@@ -19,9 +19,6 @@
 🛠️ Tecnologias: HTML • CSS • JavaScript • n8n 
 🔗 [Ver projeto](https://github.com/Raypr5/fundo-magico)
 
-## 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raypr5&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raypr5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/ray-ricarte-307b25210/
