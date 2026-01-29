@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Ray!
 
 🎓 Bacharel em Ciência da Computação  
-💻 Desenvolvedor Front-End Júnior em transição para (Full Stack Júnior)  
+💻 Desenvolvedor Front-End Júnior (em transição para Full Stack Júnior)  
 🚀 Estudando React, JavaScript e APIs REST  
 
 ### 🛠️ Tecnologias
