@@ -5,7 +5,7 @@
 🚀 Estudando React, JavaScript e APIs REST  
 
 ### 🛠️ Tecnologias
-- JavaScript | HTML | CSS
+- JavaScript | HTML | CSS (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - React
 - Java
 - Git & GitHub
