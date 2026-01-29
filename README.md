@@ -12,8 +12,11 @@
 
   ## 📌 Projetos em destaque
 
-🔹 **Gerador de Fundos com Código**
-> Gera fundos visuais e exibe o código CSS/HTML para desenvolvedores front-end  
+=🔹 **Gerador de Fundos com Código**
+> Gera fundos visuais e exibe o código CSS/HTML para desenvolvedores front-end.  
+> Ideal para estudos de UI, cores e reutilização de estilos.
+
+🛠️ Tecnologias: HTML • CSS • JavaScript • n8n 
 🔗 [Ver projeto](https://github.com/Raypr5/fundo-magico)
 
 ### 📫 Contato
