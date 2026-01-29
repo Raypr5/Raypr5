@@ -10,6 +10,12 @@
 - Java
 - Git & GitHub
 
+  ## 📌 Projetos em destaque
+
+🔹 **Gerador de Fundos com Código**
+> Gera fundos visuais e exibe o código CSS/HTML para desenvolvedores front-end  
+🔗 [Ver projeto](https://github.com/Raypr5/fundo-magico)
+
 ### 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/ray-ricarte-307b25210/
 - Email: rayrricarte@gmail.com
